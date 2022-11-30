@@ -1,0 +1,14 @@
+//
+// Created by Alden Cressy on 11/28/22.
+//
+
+#ifndef FINALPROJEXAMPLES_DATABASEHANDLER_H
+#define FINALPROJEXAMPLES_DATABASEHANDLER_H
+
+
+class DatabaseHandler {
+
+};
+
+
+#endif //FINALPROJEXAMPLES_DATABASEHANDLER_H
